@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Permitir o serviço de camera";
+NSPhotoLibraryUsageDescription = "Permitir o acesso a sua galeria para fazer o upload da sua foto de perfil";
+NSLocationWhenInUseUsageDescription = "Permitir o serviço de localização";
+NSCalendarsUsageDescription = "Permitir o serviço de calendário";
+PermissionGroupNotification = "Permitir o serviço de notificações";

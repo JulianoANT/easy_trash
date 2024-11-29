@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1009146118180",
+    "project_id": "sisgestaoresiduo",
+    "storage_bucket": "sisgestaoresiduo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009146118180:android:1745d8d43cdcab90e818b1",
+        "android_client_info": {
+          "package_name": "com.easytrash.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009146118180-s2gf4uq3gngbv7tru4hueorbe6ungu4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easytrash.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1009146118180-t1jkkvfqluhva84g3kvku2st227s3k23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qzequ-H7g2_hVK3AGTQrxpFoNpIdbtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009146118180-t1jkkvfqluhva84g3kvku2st227s3k23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009146118180-m59ofumhok8gv4chomci9lplt7bn1h6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easytrash.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

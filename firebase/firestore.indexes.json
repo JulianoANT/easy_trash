@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "agendaData",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "status",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
